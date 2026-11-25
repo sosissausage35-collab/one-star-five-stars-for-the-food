@@ -1,0 +1,1 @@
+{"description":"One sentence: an alien tourist's one-star review of Earth that still compliments the food. Entry for make.fun's \"One Star, Five Stars for the Food\" bounty.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"one-star-five-stars-for-the-food","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
